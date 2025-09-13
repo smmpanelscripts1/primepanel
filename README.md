@@ -2,6 +2,8 @@
 World wide best smm panel script
 #smmpanel #smmpanelscript #smmautomation #socialmediamarketing  #smmtools #marketingautomation #resellersystem #php #laravel #codeigniter  #socialmedia #instagram #tiktok #youtube #twitter #facebook #smmservice  #developer #opensource #webapp
 
+https://primepanel.net
+
 <img width="1918" height="921" alt="image" src="https://github.com/user-attachments/assets/87e0c0f7-da35-4b8f-bca5-6e2e86e083c5" />
 <img width="1918" height="922" alt="image" src="https://github.com/user-attachments/assets/c67d9d3d-b4a1-4cdc-9846-e2e7aff11c58" />
 <img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/9f823a47-c612-427e-9a2a-90c1c65df059" />
